@@ -93,3 +93,11 @@ This project demonstrates the **effectiveness of machine learning for spam email
 It shows that careful preprocessing + the right algorithm choice can yield high accuracy for text classification.
 
 
+<p align="center">
+  <img src="spam.png" alt="Accuracy Chart" width="500"/>
+</p>
+
+
+<p align="center">
+  <img src="spam-or-ham.png" alt="Accuracy Chart" width="500"/>
+</p>
